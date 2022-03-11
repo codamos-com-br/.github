@@ -6,8 +6,8 @@ Bem-vindes à organização do [codamos.com.br](https://codamos.com.br)
 ## Publicações mais recentes
 
 * [Node.js, V8, e as 5 fases do Event Loop](https://codamos.com.br/nodejs-v8-fases-do-event-loop.html)
-* [https://codamos.com.br/programacao-por-coincidencia.html](https://codamos.com.br/programacao-por-coincidencia.html)
-* [https://codamos.com.br/guia-estilo-de-codigo-para-iniciantes.html](https://codamos.com.br/guia-estilo-de-codigo-para-iniciantes.html)
+* [Programação por coincidência: 6 dicas para iniciantes evitarem este erro](https://codamos.com.br/programacao-por-coincidencia.html)
+* [Estilo de código: o que tode dev júnior PRECISA saber](https://codamos.com.br/guia-estilo-de-codigo-para-iniciantes.html)
 
 ## Visite, siga e compartilhe
 
