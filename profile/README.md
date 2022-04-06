@@ -5,6 +5,8 @@ Bem-vindes à organização do [codamos.com.br](https://codamos.com.br)
 
 ## Publicações mais recentes
 
+* [PokémãoBR: como identificar vagas arrombadas](https://codamos.com.br/vagas-arrombadas.html)
+* [Guia: LinkedIn para pessoas desenvolvedoras](https://codamos.com.br/guia-definitivo-perfil-profissional-linkedin-passo-a-passo.html)
 * [Node.js, V8, e as 5 fases do Event Loop](https://codamos.com.br/nodejs-v8-fases-do-event-loop.html)
 * [Programação por coincidência: 6 dicas para iniciantes evitarem este erro](https://codamos.com.br/programacao-por-coincidencia.html)
 * [Estilo de código: o que tode dev júnior PRECISA saber](https://codamos.com.br/guia-estilo-de-codigo-para-iniciantes.html)
